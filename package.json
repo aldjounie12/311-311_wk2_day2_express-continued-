@@ -1,0 +1,16 @@
+{
+  "name": "express-continued",
+  "version": "1.0.0",
+  "description": "express practice",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./index.js"
+  },
+  "author": "emily anne moses",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.14.0",
+    "nodemon": "^1.18.11"
+  }
+}
